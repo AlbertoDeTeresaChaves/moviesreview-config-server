@@ -26,7 +26,7 @@
    El Config Server le retorna a los microservicios las configuraciones solicitadas en formato JSON.
 
 <p align="right">
-  <a href="https://github.com/AlbertoDeTeresaChaves/moviesreview-config-server">
+  <a href="https://github.com/AlbertoDeTeresaChaves/MoviesReview-config">
     <img src="https://img.shields.io/badge/Ver_Configuraciones_del_Repositorio-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver Configuraciones del Repositorio" />
   </a>
 </p>
