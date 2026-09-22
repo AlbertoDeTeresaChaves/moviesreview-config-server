@@ -1,0 +1,4 @@
+info:
+  app:
+    name: "persons-service"
+    description: "Person Service Microservice"

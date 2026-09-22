@@ -1,0 +1,4 @@
+info:
+  app:
+    name: "accounts"
+    description: "Accounts Microservice"

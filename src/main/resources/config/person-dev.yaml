@@ -1,0 +1,20 @@
+server:
+  port: ${PERSONS_PORT}
+
+spring:
+  mongodb:
+    host: ${PERSONS_DB_HOST}
+    port: ${PERSONS_DB_PORT}
+    database: ${PERSONS_DATABASE}
+    username: ${PERSONS_DB_USERNAME}
+    password: ${PERSONS_DB_PASSWORD}
+    authentication-database: admin
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+info:
+  app:
+    version: "0.1"
